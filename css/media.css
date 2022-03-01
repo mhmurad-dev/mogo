@@ -1,0 +1,402 @@
+
+@media (min-width:768px) and (max-width:991px){
+    .navbar-brand {
+        padding-top: 0px;
+        transform: scale(1);
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: #000;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+    .navbar-nav{
+        text-align: center;
+        background-color: #ff6347;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .ban-text h1 {
+        font-size: 68px;
+        line-height: 80px;
+    }
+    .ban-text h2 {
+        font-size: 45px;
+    }
+    .button {
+        margin-top: 30px;
+    }
+    .b-btn a {
+        font-size: 16px;
+    }
+    .button a::after {
+        bottom: 0px;
+        display: none;
+    }
+    .counter-item h4 {
+        font-size: 60px;
+    }
+    #service {
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+    .about-text h3 {
+        font-size: 22px;
+        padding-bottom: 5px;
+    }
+    .ser-two {
+        padding-top: 30px;
+    }
+    .s-content h4 {
+        font-size: 18px;
+        text-align: center;
+    }
+    .s-content p {
+        font-size: 15px;
+        line-height: 22px;
+        text-align: center;
+    }
+    .s-content {
+        padding-bottom: 15px;
+    }
+    .service-icon i {
+        font-size: 30px;
+        padding-bottom: 8px;
+    }
+    .comt-text p {
+        font-size: 19px;
+        line-height: 27px;
+    }
+    .comt-text2 h5 {
+        font-size: 20px;
+    }
+    #team {
+        margin-top: 35px;
+        margin-bottom: 30px;
+    }
+    .team-icon i {
+        font-size: 20px;
+        padding: 9px 13px;
+        line-height: 45px;
+    }
+    .footer-from input {
+        width: 150px;
+    }
+    .footer-from button {
+        left: 150px;
+    }
+    .item2-content {
+        margin-top: 0px;
+        text-align: justify;
+    }
+    .f-header2 h4 {
+        padding-bottom: 25px;
+        margin-top: 10px;
+    }
+
+}
+ 
+
+@media (min-width:576px) and (max-width:767px){
+   
+    .navbar-brand {
+        padding-top: 0px;
+        transform: scale(.9);
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: #000;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+    .navbar-nav{
+        text-align: center;
+        background-color: #ff6347;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .ban-text h1 {
+        font-size: 35px;
+        line-height: 55px;
+    }
+    .ban-text h2 {
+        font-size: 29px;
+    }
+    .button {
+        margin-top: 20px;
+    }
+    .b-btn a {
+        font-size: 15px;
+    }
+    .button a::after {
+        bottom: 0px;
+        display: none;
+    }
+    #about {
+        padding-top: 45px;
+    }
+    .about-item {
+        margin-bottom: 50px;
+    }
+    .about-text h3 {
+        font-size: 23px;
+        padding-bottom: 2px;
+    }
+    .about-text h2 {
+        font-size: 25px;
+    }
+    .about-text h2::after {
+        bottom: -18px;
+    }
+    .about-text2 {
+        margin-top: 0px;
+        margin-bottom: 25px;
+    }
+    .about-text2 p {
+        font-size: 14px;
+        line-height: 24px;
+        padding-top: 18px;
+    }
+    .counter-item h4 {
+        font-size: 60px;
+    }
+
+    #service {
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+    .about-text h3 {
+        font-size: 22px;
+        padding-bottom: 5px;
+    }
+    .ser-two {
+        padding-top: 30px;
+    }
+    .s-content h4 {
+        font-size: 18px;
+        text-align: center;
+    }
+    .s-content p {
+        font-size: 15px;
+        line-height: 22px;
+        text-align: center;
+    }
+    .s-content {
+        padding-bottom: 15px;
+    }
+    .service-icon i {
+        font-size: 30px;
+        padding-bottom: 8px;
+    }
+    #team {
+        margin-top: 30px;
+        margin-bottom: 25px;
+    }
+    .team-text {
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+    .team-text p {
+        line-height: 25px;
+        text-align: justify;
+    }
+    #work {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    #footer {
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+    .footer-from button {
+        right: 100px;
+    }
+    .f-header2 h4 {
+        padding-bottom: 20px;
+        padding-top: 10px;
+    }
+}
+
+@media (max-width:575.99px){
+ 
+    .navbar-brand {
+        padding-top: 0px;
+        transform: scale(.7);
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: #000;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        display: none;
+    }
+    .navbar-nav{
+        text-align: center;
+        background-color: #ff6347;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .ban-text h1 {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .ban-text h2 {
+        font-size: 18px;
+    }
+    .button {
+        margin-top: 0px;
+    }
+    .b-btn a {
+        font-size: 10px; 
+    }
+    .button a::after {
+        bottom: 0px;
+        display: none;
+    }
+    #about {
+        padding-top: 15px;
+    }
+    .about-item {
+        margin-bottom: 50px;
+    }
+    .about-text h3 {
+        font-size: 20px;
+        padding-bottom: 0px;
+    }
+    .about-text h2 {
+        font-size: 20px;
+    }
+    .about-text h2::after {
+        bottom: -15px;
+    }
+    .about-text2 {
+        margin-top: 0px;
+        margin-bottom: 25px;
+    }
+    .about-text2 p {
+        font-size: 13px;
+        line-height: 22px;
+        padding-top: 15px;
+    }
+    #counter {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        background-color: #95e1d3;
+    }
+    .counter-item h4 {
+        font-size: 20px;
+    }
+    .counter-item span {
+        font-size: 13px;
+    }
+    #service {
+        padding-top: 30px;
+        padding-bottom: 15px;
+    }
+    .about-text h3 {
+        font-size: 18px;
+    }
+    .ser-two {
+        padding-top: 25px;
+    }
+    .s-content h4 {
+        font-size: 16px;
+        text-align: center;
+    }
+    .s-content p {
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+    }
+    .s-content {
+        padding-bottom: 10px;
+    }
+    .service-icon i {
+        font-size: 30px;
+        padding-bottom: 8px;
+    }
+    .comt-text p {
+        font-size: 16px;
+        line-height: 25px;
+        padding-top:15px;
+    }
+    #comment {
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+    #work {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .work-img{
+        margin: 10px 20px;
+    }
+    .about-text h2 {
+        font-size: 18px;
+    }
+    .about-text {
+        margin-bottom: 0px;
+    }
+    .team-text p {
+        font-size: 13px;
+        line-height: 20px;
+        text-align: justify;
+    }
+    .team-text {
+        margin-top: 25px;
+        margin-bottom: 35px;
+    }
+    #team {
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+    #footer {
+        padding-top: 30px;
+        padding-bottom: 40px;
+    }
+    .item1-content {
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .footer-from {
+        margin-top: 20px;
+    }
+    .footer-from button {
+	width: 100px;
+}
+.f-header2 h4 {
+	font-size: 14px;
+	padding-bottom: 15px;
+	padding-top: 10px;
+}
+.item2-pic{
+    text-align: center;
+}
+.item2-content{
+    text-align: center;
+}
+.item2-content p {
+	font-size: 13px;
+	line-height: 20px;
+}
+.item3-pic{
+   margin: 10px 20px;
+}
+
+#copy-right {
+	padding-top: 15px;
+	padding-bottom: 0px;
+}
+.c-r-text p {
+	font-size: 10px;
+}
+.back-to-top i {
+	height: 25px;
+	width: 25px;
+	font-size: 19px;
+	line-height: 25px;
+}
+
+}
